@@ -731,7 +731,7 @@ body[data-page="spl"] .tab-content-area {
 }
 
 /* PVB: menu en uitleg beginnen lager; het uitlegvlak blijft compacter. */
-body[data-page="pvb"] .tab-page { padding-top: 60px; }
+body[data-page="pvb"] .tab-page { padding-top: 90px; }
 body[data-page="pvb"] .tab-content-area { height: calc(100% - 36px); }
 
 /* Dagtaken: het stappenmenu en tekstvlak iets lager onder de banner. */
