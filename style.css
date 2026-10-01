@@ -713,10 +713,10 @@ body.menu-page .action-desc {
 }
 body.menu-page .arrow { font-size: 17px; }
 
-/* LinkedIn en Stichting Praktijkleren: menu en tekstvak 40 px lager. */
+/* LinkedIn en Stichting Praktijkleren: menu en tekstvak 10 px lager. */
 body[data-page="linked"] .tab-page,
 body[data-page="spl"] .tab-page {
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 body[data-page="linked"] .tab-menu,
